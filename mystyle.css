@@ -2,7 +2,7 @@ header {
       text-align: center;
       background: url('https://cdn.pixabay.com/photo/2016/03/06/05/03/sunrise-1239728_960_720.jpg');
       background-size: cover;
-      color: white;
+      color: rgb= "d0ecf4";
     }
     a {
       color: white;
