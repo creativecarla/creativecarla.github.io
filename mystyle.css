@@ -36,8 +36,9 @@ header {
         display: block;
       }
     }
-h2{
+body{
       color:rgba="a1adba";
+      color: rgba="d0ecf4";
 }
    h3 {
       font-size: 50px;
