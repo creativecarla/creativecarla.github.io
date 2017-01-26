@@ -2,7 +2,7 @@ header {
       text-align: center;
       background: url('https://lh3.google.com/u/0/d/0BwlJSWe7GSmqT3hmVmZmQlJkREE=w1093-h862-iv1');
       background-size: cover;
-      color: rgb= "blue";
+      color: rgba="d0ecf4";
     }
     a {
       color: white;
@@ -37,7 +37,7 @@ header {
       }
     }
 h2{
-      color: rgb="a1adba";
+      color:rgba="a1adba";
 }
    h3 {
       font-size: 50px;
