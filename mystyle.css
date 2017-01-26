@@ -7,10 +7,7 @@ header {
     a {
       color: white;
     }
-    h3 {
-      font-size: 50px;
-          color: "pink"
-    }
+ 
     img {
       margin: 40px 0px 0px 0px;
       border: 7px solid white;
@@ -42,3 +39,7 @@ header {
 h2{
       color: rgb="a1adba";
 }
+   h3 {
+      font-size: 50px;
+          color:rgba:"4d5156"
+    }
