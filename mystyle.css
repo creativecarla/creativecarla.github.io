@@ -9,6 +9,11 @@ header {
 body {
       background: rgb(208,236,244)
 }
+ h1 {
+        font-size: 50px;
+        padding: 5px;
+         color: rgb(208,236,244)
+      }
     img {
       margin: 40px 0px 0px 0px;
       border: 7px solid white;
