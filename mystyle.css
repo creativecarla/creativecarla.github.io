@@ -42,9 +42,12 @@ body{
       color:rgba="a1adba";
       color: rgba="d0ecf4";
 }
-   h3 {
+   h2 {
       font-size: 50px;
           color:rgba:"4d5156"
     }
-
-      
+    h1 {
+        font-size: 45px;
+        padding: 5px;
+         color: rgb(208,236,244)
+      }
