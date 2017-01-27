@@ -46,3 +46,8 @@ body{
       font-size: 25px;
           color:rgba:"4d5156"
     }
+ h1 {
+        font-size: 50px;
+        padding: 5px;
+         color: rgb(208,236,244)
+      }
